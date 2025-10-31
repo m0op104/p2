@@ -4,26 +4,48 @@ title:  "perfume coldsleep"
 date:   2025-09-24 14:51:38 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+### Perfume 宣佈進入 'Cold Sleep'
 
-`YEAR-MONTH-DAY-title.MARKUP`
+在9月21日，主流出道滿20年的日子，<br>
+突如其來宣佈來年(2026)暫停所有活動
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+今年有一連串紀念組成25年活動，<br>
+但總結的新歌 巡ループ  卻表達時間流逝的淡淡茫然
 
-Jekyll also offers powerful support for code snippets:
+>春の不安も 夏の願いも 秋の笑顔も 冬の想いも<br>
+>今でも 心を 色褪せないまま
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+>春天的不安、夏天的願望、秋天的笑容、冬天的思念，<br>
+>至今仍不曾在心中褪色
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+是巧合？<br>
+或者去年已經在想吧，タイムカプセル (time capsule)一曲
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+>ボクらは夢の中にいた<br>
+>急いで漕いだ自転車置いて<br>
+>宝物だらけの日々に<br>
+>いつか蓋をしてしまったのさ
+
+>我們曾身在夢境之中，<br>
+>匆匆騎着的單車，最後將它擱在一旁，<br>
+>那些滿載珍寶的日子，<br>
+>不知何時，已悄悄蓋上了回憶的蓋子
+
+不知不覺間，追逐夢想時發出的光輝，都已變成歷史，
+這句我就想起了公佈中
+
+>輝いている私たちを歴史に残すこと
+
+>將我們閃閃發亮的一刻凝結在歷史中
+
+去年世界巡迴和年底橫濱塲，本着不知還可以看多少次，<br>
+想不到真的是最後一次
+
+慶幸東京巨蛋有網上直播，看着 あ～ちゃん 雙眼，我也眼泛淚光了
+
+世界のあ～ちゃん，かしゆか，のっち<br>
+世界のPerfume<br>
+Power Up and See You at the Next Stage
+
+![always 3](../../../../assets/images/2025/09/24/2013-02-162016.58.38.jpg)
