@@ -5,7 +5,7 @@ date:   2025-09-24 14:51:38 +0800
 categories: jekyll update
 ---
 
-### Perfume 宣佈進入 'Cold Sleep'
+## Perfume 宣佈進入 Cold Sleep
 
 <span class="digit">9</span>月<span class="digit">21</span>日，主流出道滿<span class="digit">20</span>年的日子，<br>
 突如其來宣佈來年(<span class="digit">2026</span>)暫停所有活動
@@ -32,8 +32,8 @@ categories: jekyll update
 >那些滿載珍寶的日子，<br>
 >不知何時，已悄悄蓋上了回憶的蓋子
 
-不知不覺間，追逐夢想時發出的光輝，都已變成歷史，
-這句我就想起了公佈中
+不知不覺間，追逐夢想時發出的光輝，都已變成歷史，<br>
+想起了公佈中
 
 >輝いている私たちを歴史に残すこと
 
@@ -48,4 +48,11 @@ categories: jekyll update
 世界のPerfume<br>
 Power Up and See You at the Next Stage
 
-![always 3](../../../../assets/images/2025/09/24/2013-02-162016.58.38.jpg)
+
+![always 3]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/2013-02-162016.58.38.jpg)
+
+![always 3]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/a7fpidbcqaarbgt.jpg)
+
+![always 3]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/img.jpg)
+
+![always 3]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/tumblr_l7m7p3njvC1qdq3mto1_1280.jpg)

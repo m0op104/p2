@@ -5,3 +5,6 @@ google_analytics:
 theme: jekyll-theme-dinky
 
 permalink: /blog/:year/:month/:day/:title
+
+imagePath: ../../../../assets/images
+

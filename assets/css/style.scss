@@ -7,6 +7,8 @@
 
 @import url("https://fonts.googleapis.com/css?family=Figtree:400,700,400italic");
 
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,400italic");
+
 
 
 
@@ -29,4 +31,20 @@ body {
   font-family: "Figtree","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 15px;
+}
+
+img {
+  max-width: 450px;
+}
+
+h2 {
+  color: #124a68;
+  background-color: #eae7de;
+  font-family: "Josefin Sans","Noto Sans HK","Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+header {
+    background-color: #8b94af;
+    color: #FDFDFB;
 }
