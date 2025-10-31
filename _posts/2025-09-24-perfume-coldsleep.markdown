@@ -7,10 +7,10 @@ categories: jekyll update
 
 ### Perfume 宣佈進入 'Cold Sleep'
 
-在9月21日，主流出道滿20年的日子，<br>
-突如其來宣佈來年(2026)暫停所有活動
+<span class="digit">9</span>月<span class="digit">21</span>日，主流出道滿<span class="digit">20</span>年的日子，<br>
+突如其來宣佈來年(<span class="digit">2026</span>)暫停所有活動
 
-今年有一連串紀念組成25年活動，<br>
+今年有一連串紀念組成<span class="digit">25</span>年活動，<br>
 但總結的新歌 巡ループ  卻表達時間流逝的淡淡茫然
 
 >春の不安も 夏の願いも 秋の笑顔も 冬の想いも<br>
@@ -42,7 +42,7 @@ categories: jekyll update
 去年世界巡迴和年底橫濱塲，本着不知還可以看多少次，<br>
 想不到真的是最後一次
 
-慶幸東京巨蛋有網上直播，看着 あ～ちゃん 雙眼，我也眼泛淚光了
+慶幸東京巨蛋有網上直播，看着 あ～ちゃん 雙眼，我也眼泛淚光
 
 世界のあ～ちゃん，かしゆか，のっち<br>
 世界のPerfume<br>

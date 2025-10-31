@@ -2,3 +2,31 @@
 ---
 
 @import 'jekyll-theme-dinky';
+
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+HK:400,700,400italic");
+
+@import url("https://fonts.googleapis.com/css?family=Figtree:400,700,400italic");
+
+
+
+
+
+blockquote {
+  border-left: 2px solid #473c3c;
+  font-style: normal;
+  font-size: 13px;
+}
+
+body {
+  font-family: "Noto Sans HK","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #124a68;
+  background-color: #eae7de;
+}
+
+.digit
+{
+  font-family: "Figtree","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+}
