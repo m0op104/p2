@@ -4,4 +4,4 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
 
-#permalink: /blog/:year-:month-:day-:title
+permalink: /blog/:year/:month/:day/:title
