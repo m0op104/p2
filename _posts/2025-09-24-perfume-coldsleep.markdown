@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Perfume 宣佈進入 Cold Sleep
-#### 2025.09.24
+#### <span class="digit">2025.09.24</span>
 
 <span class="digit">9</span>月<span class="digit">21</span>日，主流出道滿<span class="digit">20</span>年的日子，<br>
 突如其來宣佈來年(<span class="digit">2026</span>)暫停所有活動
