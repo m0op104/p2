@@ -8,3 +8,4 @@ permalink: /blog/:year/:month/:day/:title
 
 imagePath: ../../../../assets/images
 
+image_path_template: "../../../../assets/images/{{ page.date | date: '%Y/%m/%d' }}/"
