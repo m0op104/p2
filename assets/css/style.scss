@@ -9,8 +9,11 @@
 
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,400italic");
 
-
-
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url("https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,400italic");
+  unicode-range: U+0041-005A, U+0061-007A; 
+}
 
 
 blockquote {
@@ -20,7 +23,7 @@ blockquote {
 }
 
 body {
-  font-family: "Noto Sans HK","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", "Noto Sans HK", Helvetica, Arial, sans-serif;
   font-size: 15px;
   color: #124a68;
   background-color: #eae7de;
