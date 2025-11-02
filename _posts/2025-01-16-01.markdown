@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "the city and its uncertain wall"
-date:   2025-01-16 00:00:01 +00:00
+date:   2025-01-16 00:00:01 +0000
 categories: jekyll update
 ---
 
@@ -23,7 +23,7 @@ categories: jekyll update
 
 **生命中我們會遇上像在心中挖穿了洞的事，而這些洞一輩子都沒辦法補上<br>我們會逃避在回憶中，會封閉某個自己，但亦會同時繼續走前面的路**
 
-![cover]({{site.imagePath}}/2025/01/16/screenshot-2025-01-16-225126.png) 
-![cover]({{site.imagePath}}/2025/01/16/screenshot-2025-01-16-225103.png)
+![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225126.png) 
+![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225103.png)
 
 penguin的雙封面好靚
