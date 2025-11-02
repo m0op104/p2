@@ -26,7 +26,5 @@ categories: jekyll update
 
 
 
-![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225126.png) 
-![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225103.png)
 
 penguin的雙封面好靚
