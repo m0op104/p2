@@ -1,0 +1,32 @@
+---
+layout: default
+title:  "the city and its uncertain wall"
+date:   2025-01-16 00:00:01 +0800
+categories: jekyll update
+---
+
+## 村上春樹：城與不確定的牆(2023)
+#### <span class="digit">2025.01.16</span>
+
+主角<span class="digit">17</span>歲時愛上的<span class="digit">16</span>歲少女突然消失了
+
+某天到了昔日和少女一起構想的城市<br>
+在那𥚃，有牆，守門人，獨角獸，沒有指針的鐘樓，沒有書的圖書館和<span class="digit">16</span>歲時的少女
+
+少女每晚陪伴着在圖書館讀着古夢
+
+主角的影子回到牆外，到了鄉間的圖書管，遇上沒有影子的靈魂，黃色潛水艇少年和咖啡店女主人
+
+牆內的主角遇上少年的影子，對主角說 : 我就是你
+
+主角某天意識到要回到牆外；少年的影子則留下來繼續讀夢
+
+**生命中我們會遇上像在心中挖穿了洞的事，而這些洞一輩子都沒辦法補上<br>我們會逃避在回憶中，會封閉某個自己，但亦會同時繼續走前面的路**
+
+
+
+
+![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225126.png) 
+![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225103.png)
+
+penguin的雙封面好靚

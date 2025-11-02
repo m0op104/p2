@@ -12,7 +12,7 @@ categories: jekyll update
 突如其來宣佈來年(<span class="digit">2026</span>)暫停所有活動
 
 今年有一連串紀念組成<span class="digit">25</span>年活動，<br>
-但總結的新歌 巡ループ  卻表達時間流逝的淡淡茫然
+但總結的新歌《巡ループ》卻表達時間流逝的淡淡茫然
 
 >春の不安も 夏の願いも 秋の笑顔も 冬の想いも<br>
 >今でも 心を 色褪せないまま
@@ -21,7 +21,7 @@ categories: jekyll update
 >至今仍不曾在心中褪色
 
 是巧合？<br>
-或者去年已經在想吧，タイムカプセル (time capsule)一曲
+或者去年已經在想吧，《タイムカプセル》(time capsule)一曲
 
 >ボクらは夢の中にいた<br>
 >急いで漕いだ自転車置いて<br>
