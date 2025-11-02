@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "the city and its uncertain wall"
+title:  村上春樹：城與不確定的牆 (2023)
 date:   2025-01-16 00:00:01 +00:00
 categories: jekyll update
 ---
 
-## 村上春樹：城與不確定的牆(2023)
-#### <span class="digit">2025.01.16</span>
+## {{page.title}}
+#### <span class="digit">{{page.date|date:"%Y.%m.%d"}}</span>
 
 主角<span class="digit">17</span>歲時愛上的<span class="digit">16</span>歲少女突然消失了
 
@@ -24,4 +24,4 @@ categories: jekyll update
 **生命中我們會遇上像在心中挖穿了洞的事，而這些洞一輩子都沒辦法補上<br>我們會逃避在回憶中，會封閉某個自己，但亦會同時繼續走前面的路**
 
 ![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/bookcover-uncertain-wall.png)<br> 
-penguin的雙封面好靚
+Penguin的雙封面好靚

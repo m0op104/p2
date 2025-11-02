@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "perfume coldsleep"
+title:  Perfume 宣佈進入 Cold Sleep
 date:   2025-09-24 00:00:01 +00:00
 categories: jekyll update
 ---
 
-## Perfume 宣佈進入 Cold Sleep
-#### <span class="digit">2025.09.24</span>
+## {{page.title}}
+#### <span class="digit">{{page.date|date:"%Y.%m.%d"}}</span>
 
 <span class="digit">9</span>月<span class="digit">21</span>日，主流出道滿<span class="digit">20</span>年的日子，<br>
 突如其來宣佈來年(<span class="digit">2026</span>)暫停所有活動

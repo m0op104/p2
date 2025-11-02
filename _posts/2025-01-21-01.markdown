@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "The End of the World and Hard-Boiled Wonderland"
+title:  村上春樹：世界末日與冷酷異境 (1985)
 date:   2025-01-21 00:00:01 +00:00
 categories: jekyll update
 ---
 
-## 村上春樹：世界末日與冷酷異境 (1985)
-#### <span class="digit">2025.01.21</span>
+## {{page.title}}
+#### <span class="digit">{{page.date|date:"%Y.%m.%d"}}</span>
 
 現實世界「冷酷異境」和非現實世界「世界末日」同時進行的故事
 
