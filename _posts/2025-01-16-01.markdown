@@ -23,7 +23,5 @@ categories: jekyll update
 
 **生命中我們會遇上像在心中挖穿了洞的事，而這些洞一輩子都沒辦法補上<br>我們會逃避在回憶中，會封閉某個自己，但亦會同時繼續走前面的路**
 
-![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225126.png) 
-![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/screenshot-2025-01-16-225103.png)
-
+![cover]({{site.imagePath}}/{{page.date|date:"%Y/%m/%d"}}/bookcover-uncertain-wall.png) 
 penguin的雙封面好靚
