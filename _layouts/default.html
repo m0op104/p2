@@ -28,13 +28,14 @@
           <li><a class="buttons github" href="{{ site.indexpage }}">index</a></li>
           -->
           {% if site.env == 'production' %}
-                      <li>production</li>
+            <li>production</li>
+            <li><a class="buttons github" href="{{ site.indexpage }}">index</a></li>
             
           {% endif %}
 
           {% if site.env == 'local' %}
-                                <li>local</li>
-            
+            <li>local</li>
+            <li><a class="buttons github" href="{{ site.indexpage }}">index</a></li>
           {% endif %}
 
 

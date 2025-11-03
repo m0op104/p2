@@ -9,4 +9,4 @@ permalink: /blog/:year/:month/:day/:title
 imagePath: ../../../../assets/images
 
 env: production
-
+indexpage: https://m0op104.github.io/p2/

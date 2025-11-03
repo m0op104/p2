@@ -9,6 +9,7 @@ permalink: /blog/:year/:month/:day/:title
 imagePath: ../../../../assets/images
 
 env: local
+indexpage: http://localhost:4000/
 
 
 
