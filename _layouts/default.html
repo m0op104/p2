@@ -27,6 +27,19 @@
           <!--
           <li><a class="buttons github" href="{{ site.indexpage }}">index</a></li>
           -->
+          {% if site.env == 'production' %}
+                      <li>production</li>
+            
+          {% endif %}
+
+          {% if site.env == 'local' %}
+                                <li>local</li>
+            
+          {% endif %}
+
+
+
+
         </ul>
 
         {% if site.github.is_project_page %}
