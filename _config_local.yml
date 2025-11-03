@@ -9,6 +9,8 @@ permalink: /blog/:year/:month/:day/:title
 imagePath: ../../../../assets/images
 
 env: production
-baseurl: "/p2"
-url: "https://m0op104.github.io"
+baseurl: ""
+url: "http://localhost:4000"
+
+
 
