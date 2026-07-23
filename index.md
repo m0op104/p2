@@ -13,6 +13,10 @@ layout: default
   - [村上春樹：城與不確定的牆 (2023)](./blog/2025/01/16/01.html)
 
 
+- 2023.09.28
+  - [Learning in Progress](./blog/2023/09/28/01.html)
+
+
 - 2021.08.29
   - [Recently Completed Courses](./blog/2021/08/29/01.html)
 
