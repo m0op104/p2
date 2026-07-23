@@ -11,12 +11,10 @@ layout: default
   - [村上春樹：世界末日與冷酷異境 (1985)](./blog/2025/01/21/01.html)
 - 2025.01.16
   - [村上春樹：城與不確定的牆 (2023)](./blog/2025/01/16/01.html)
-
-
+- 2023.10.26
+  - [Learning in Progress](./blog/2023/10/26/01.html)
 - 2023.09.28
   - [Learning in Progress](./blog/2023/09/28/01.html)
-
-
 - 2021.08.29
   - [Recently Completed Courses](./blog/2021/08/29/01.html)
 
